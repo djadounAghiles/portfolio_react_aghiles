@@ -22,7 +22,7 @@ Ce projet a été créé en utilisant React et Tailwind CSS pour présenter mon 
   - Éducation (Education) : Une sous-page qui détaille mes diplômes, certifications et formations.
     ![Capture d'écran de la page Éducation](https://github.com/djadounAghiles/aghiles_portfoliovReact/assets/136774766/5f198571-abec-4ddf-abec-18477a1f4215)
 
-  - Compétences Professionnelles (Professional Skills) : Une sous-page qui met en valeur mes compétences techniques et mes domaines d'expertise.
+  - Compétences Professionnelles (Professional Skills) : Une sous-page qui met en valeur mes compétences techniques et mes domaines d'expertise..
     ![Capture d'écran de la page Compétences Professionnelles](https://github.com/djadounAghiles/aghiles_portfoliovReact/assets/136774766/df43a32a-50e9-4639-9fa5-da437bbe44a1)
 
   - Expérience (Experience) : Une sous-page qui présente mon expérience professionnelle, mes responsabilités et mes réalisations.
