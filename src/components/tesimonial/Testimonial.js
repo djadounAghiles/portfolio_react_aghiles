@@ -65,7 +65,7 @@ const Testimonial = () => {
     setComment("");
     setErrMsg("");
   };
-
+// 
   const handleDeleteTestimonial = (index) => {
     const updatedTestimonials = [...testimonials];
     updatedTestimonials.splice(index, 1);
